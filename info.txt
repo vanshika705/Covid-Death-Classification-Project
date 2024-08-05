@@ -1,0 +1,4 @@
+LLM ---> Large Language Models
+They are neural network model.
+They study huge amount of data.
+Gemini LLM designed by google.
