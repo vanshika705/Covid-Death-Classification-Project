@@ -2,3 +2,6 @@ LLM ---> Large Language Models
 They are neural network model.
 They study huge amount of data.
 Gemini LLM designed by google.
+To execute file ---> streamlit run vision_app.py
+LLM model generate response on the basis of knowledge gained during moddel training 
+
